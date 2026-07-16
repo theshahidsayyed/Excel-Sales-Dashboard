@@ -75,6 +75,7 @@ The dataset contains information about:
 
 ## Dashboard Preview
 
+https://github.com/theshahidsayyed/SuperStore_Analysis#:~:text=SuperstoreDashboard.png
 
 
 ## Key Insights
