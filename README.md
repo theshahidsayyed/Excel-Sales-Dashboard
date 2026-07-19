@@ -119,9 +119,11 @@ Superstore-Sales-Analysis/
 
 ## Author
 
-SHAHID SAYYED
+Shahid Sayyed
 
 Aspiring Data Analyst
+
+📍 Berlin, Germany
 
 Skills:
 - Excel
